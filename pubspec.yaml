@@ -35,10 +35,10 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+
   uses-material-design: true
   assets:
-    - images/profilepic2020.jpg
-
+    - profilepic2020.jfif
   fonts:
     - family: Pacifico
       fonts:
